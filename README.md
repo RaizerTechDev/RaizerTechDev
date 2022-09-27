@@ -1,4 +1,4 @@
-<h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, RAFAEL RAIZER 🤠🚀</h1>
+<h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> RAFAEL RAIZER 🤠🚀</h1>
 <h2> DESENVOLVEDOR JÚNIOR!!<h2>
 
     ◾ 🔭 Buscando oportunidade na área da Tecnologia!!!!
