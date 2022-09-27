@@ -1,10 +1,13 @@
-<h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> RAFAEL RAIZER 🤠🚀</h1>
-<h2> DESENVOLVEDOR JÚNIOR!!<h2>
+<h2 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> RAFAEL RAIZER 🤠🚀</h2>
+<h3><align="center> DESENVOLVEDOR JÚNIOR!!</align="center></h3>
 
-    ◾ 🔭 Buscando oportunidade na área da Tecnologia!!!!
-    ◾ 🚀 Focado atualmente em Front End,  BackEnd, Java e Banco de Dados!!!
-    ◾ ☕ Sou estudante de Desenvolvimento de Software na StackX!!
-    ◾ 🤠Venho apresentar meu Portfólio nas Linguagens que estou me especializando!
+◾ 🔭 Buscando oportunidade na área da Tecnologia!!!!
+
+◾ 🚀 Focado atualmente em Front End,  BackEnd, Java e Banco de Dados!!!
+
+◾ ☕ Sou estudante de Desenvolvimento de Software na StackX!!
+
+◾ 🤠 Venho apresentar meu Portfólio nas Linguagens que estou me especializando!
 
   </div>      
  
