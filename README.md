@@ -91,34 +91,9 @@ Desenvolvedor Júnior
    <br />
    [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
 
-
-
-
-
-
- 
-
-
  <br>
  
-<p align="end"> Total de Visitas  :detective:  </p>
+<p align="end"> Total de Visitas  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="center"  height="70" width="80"> </p>
    <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />
-
-
-
-
-
-
-
-
-
-
+   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />                        
  
-                                                             
-                                                                                                      
-
-
-
-   
-
