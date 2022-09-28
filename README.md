@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
 Olá sou Rafael Raizer  
-<h2 align="left">Desenvolvedor Júnior
+  <h2> Desenvolvedor Júnior
 <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" align="center" width="70">
 </h1>
 
