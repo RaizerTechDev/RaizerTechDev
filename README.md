@@ -84,7 +84,7 @@ Olá sou Rafael Raizer
 
  <br>
  
-<p align="end"> Total de Visitas  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="center"  height="70" width="80"> </p>
+### <p align="end"> Total de Visitas  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="center"  height="70" width="80"> </p>
    <p align="end">
    <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />                        
  
