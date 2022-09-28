@@ -16,22 +16,17 @@ Desenvolvedor Júnior
                          
  </div>      
   
-
   ***
-  
-  
+    
   <div align="center"> 
    
   <img src="https://media.giphy.com/media/rKtSOGFNiwMo8c0b0e/giphy.gif" height="280em" width="80%" >
-
 </div>
-<br>
 <br>
 
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="70" width="80"> &nbsp;GitHub_Stats
 ***
-
   <div align="center">
   
   <a href="https://github.com/RAFARZ76">
@@ -48,11 +43,11 @@ Desenvolvedor Júnior
  </div align="left">
  <br>
   
-  ### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center"  height="70" width="80"> &nbsp;Tech_Areas 
   
-
- ***
+  ### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center"  height="70" width="80"> &nbsp;Tech_Areas 
+   ***
  </div align="center">
+ 
    <div style="display: inline_block">
    <img align="center" alt="RAFARZ76--Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="RAFARZ76--Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -69,18 +64,15 @@ Desenvolvedor Júnior
   <img align="center" alt="RAFARZ76--Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="RAFARZ76--Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="RAFARZ76--Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-    
-   </div align="center"> 
+    </div align="center"> 
    <br>
    <br>
-
+   
 
  ### <img src="https://media.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" align="center"  height="70" width="80">  &nbsp;Connect with me
-
   ***
   
-  
- <a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br />
    <a href="https://api.whatsapp.com/send/?phone=47999327137"><img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <br />
