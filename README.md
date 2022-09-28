@@ -11,7 +11,7 @@ Desenvolvedor Júnior
 
 ◾ ☕ Sou estudante de Desenvolvimento de Software na StackX!!
 
-◾ 🤠 Apresentando meu Portfólio <img src="https://media.giphy.com/media/YTtqB2j5EN7IA/giphy.gif" align="center" height="35"  > 
+◾ 🤠 Apresentando meu Portfólio <img src="https://media.giphy.com/media/YTtqB2j5EN7IA/giphy.gif" align="center" height="60"  > 
 
                          
  </div>      
