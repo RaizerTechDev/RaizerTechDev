@@ -70,8 +70,7 @@ Olá sou Rafael Raizer
 
  ### <img src="https://media.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" align="center"  height="70" width="80">  &nbsp;Connect with me
   ***
-  
-   <a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br />
    <a href="https://api.whatsapp.com/send/?phone=47999327137"><img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <br />
@@ -86,5 +85,4 @@ Olá sou Rafael Raizer
  
 ### <p align="end"> Total de Visitas  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="center"  height="70" width="80"> </p>
    <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />                        
- 
+   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" /> 
