@@ -14,20 +14,20 @@ Olá sou Rafael Raizer
 
                          
  </div>      
+  <br>
+  <br>
   
-  ***
-    
-  <div align="center"> 
+  
+<div align="center"> 
    
   <img src="https://media.giphy.com/media/rKtSOGFNiwMo8c0b0e/giphy.gif" height="280em" width="80%" >
 </div>
 <br>
 
-
-### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="80" width="100"> &nbsp;GitHub_Stats
 ***
+### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="80" width="100"> &nbsp;GitHub_Stats
+
   <div align="center">
-  
   <a href="https://github.com/RafaRz76Dev">
  <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&theme=dark"/>
  <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&theme=dark"/>    
@@ -41,36 +41,27 @@ Olá sou Rafael Raizer
 
  </div align="left">
  <br>
+
+***
   
   
   ### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center"  height="70" width="80"> &nbsp;Tech_Areas 
-   ***
- </div align="center">
- 
-   <div style="display: inline_block">
-   <img align="center" alt="RafaRz76Dev--Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="RafaRz76Dev--Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="RafaRz76Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="RafaRz76Dev--React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="RafaRz76Dev--Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="RafaRz76Dev--Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="RafaRz76Dev--TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="RafaRz76Dev--HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="RafaRz76Dev--CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="RafaRz76Dev--Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="RafaRz76Dev--MYSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="RafaRz76Dev--PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="RafaRz76Dev--Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="RafaRz76Dev--Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="RafaRz76Dev--Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-    </div align="center"> 
-   <br>
-   <br>
-   
+
+|Html|Css|C#|Javascript|Java|Typescript|React|Angular|Node
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
+
+|Bootstrap|Wordpress|SQL|Git|Github|VSCode|PHP|Tableau
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|<img style="width: 100px" src="https://media2.giphy.com/media/jTqfCm1C0BV5fFAYvT/200w.gif?cid=82a1493bcsxifsduha2yt3xs2ab79nots4hblc9i3v3335v5&rid=200w.gif&ct=g">|<img style="width: 100px" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761161ff3baa950f722c70f4bf99c0e0adef7ab15f94&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/lQ6Imwgs3HxyIlTOoX/giphy.gif">
+</br>
+
+***
+
 
  ### <img src="https://media.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" align="center"  height="70" width="80">  &nbsp;Connect with me
-  ***
-  <a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a  href="https://www.linkedin.com/in/rafael-raizer/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br />
    <a href="https://api.whatsapp.com/send/?phone=47999327137"><img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <br />
@@ -85,4 +76,5 @@ Olá sou Rafael Raizer
  
 ### <p align="end"> Total de Visitas  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" align="center"  height="70" width="80"> </p>
    <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" /> 
+   <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />  
+
