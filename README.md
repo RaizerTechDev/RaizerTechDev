@@ -1,9 +1,9 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-Olá sou Rafael Raizer  
-  <h2> Desenvolvedor Front End Júnior
-<img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" align="center" width="70">
-</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6035DF&center=true&vCenter=true&width=435&lines=Olá👋+sou+Rafael+Raizer👊)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=120A2A&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End+Júnior" alt="Typing SVG" /></a>  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" width="70">
+
+<br>
+  
 ◾ 🔭 Buscando oportunidade na área da Tecnologia!!!!
 
 ◾ 🚀 Focado atualmente em Front End,  BackEnd, Java e Banco de Dados!!!
