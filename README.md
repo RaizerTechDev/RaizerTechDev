@@ -1,5 +1,15 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6035DF&center=true&vCenter=true&width=435&lines=Olá👋+sou+Rafael+Raizer👊)](https://git.io/typing-svg)
+ <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6035DF&center=true&vCenter=true&width=435&lines=Olá👋+sou+Rafael+Raizer)](https://git.io/typing-svg)
+ 
+ </div>
+
+ <div align="center">
+<img height="180em" src="ImagemDevRafa.png"  align="center">
+
+</div>
+
+</br>
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=120A2A&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End+Júnior" alt="Typing SVG" /></a>  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" width="70">
 
 <br>
@@ -10,10 +20,8 @@
 
 ◾ ☕ Sou estudante de Desenvolvimento de Software na StackX!!
 
-◾ 🤠 Apresentando meu Portfólio <img src="https://media.giphy.com/media/YTtqB2j5EN7IA/giphy.gif" align="center" height="65"  > 
-
-                         
- </div>      
+◾ 🤠 Apresentando meu Portfólio <img src="https://media.giphy.com/media/YTtqB2j5EN7IA/giphy.gif" align="center" height="65"  >                    
+ 
   <br>
   <br>
   
