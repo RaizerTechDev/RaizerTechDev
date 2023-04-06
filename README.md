@@ -76,7 +76,7 @@
    <a href="https://t.me/RafaRaizer76" target="_blank"><img align="left" src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <br />
    <ion-icon name="mail-outline"></ion-icon>
-   <a href="mailto:rafaelraizer76@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/gmail-%23FA0F00.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="mailto:rafarz76dev.com" target="_blank"><img align="left" src="https://img.shields.io/badge/gmail-%23FA0F00.svg?style=for-the-badge&logo=gmail&logoColor=white" />
    <br />
    [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/rafael.raizer)
 
