@@ -28,7 +28,7 @@
   
 <div align="center"> 
    
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="280em" width="80%" >
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" height="280em" width="60%" >
 </div>
 <br>
 
@@ -53,7 +53,7 @@
 ***
   
   
-  ### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center"  height="70" width="80"> &nbsp;Tech_Areas 
+  ### <img src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif" align="center"  height="70" width="80">  
 
 |Html|Css|C#|JavaScript|Java|TypesScript|React|Angular|Vue.JS|Node|Python
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
