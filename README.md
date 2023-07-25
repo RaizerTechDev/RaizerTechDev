@@ -5,7 +5,7 @@
  </div>
 
  <div align="center">
-<img height="180em" src="ImagemDevRafa.png"  align="center">
+<img height="120em" src="ImagemDevRafa.png"  align="center">
 
 </div>
 
@@ -28,7 +28,8 @@
   
 <div align="center"> 
    
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" height="310em" width="65%" >
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722mc1tj22pjuzekhuumkf2c0bodms9sc5tev82ud&rid=giphy.gif&ct=g" alt="coding" width="55%">
+
 </div>
 <br>
 
