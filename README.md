@@ -28,7 +28,7 @@
   
 <div align="center"> 
    
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722mc1tj22pjuzekhuumkf2c0bodms9sc5tev82ud&rid=giphy.gif&ct=g" alt="coding" height="450"  width="155%">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4722mc1tj22pjuzekhuumkf2c0bodms9sc5tev82ud&rid=giphy.gif&ct=g" alt="coding" height="450"  width="95%">
 
 </div>
 <br>
