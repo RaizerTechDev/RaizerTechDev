@@ -15,7 +15,7 @@ inputs:
   SECTION_NAME:
     description: 'Name used in readme to scope the updated section'
     required: false
-    default: "waka"
+    default: "RafaRz76Dev"
 
   PULL_BRANCH_NAME:
     required: false
@@ -146,10 +146,6 @@ inputs:
     required: false
     description: "Whether to enable action debug logging"
     default: ${{ runner.debug }}
-
-runs:
-  using: 'docker'
-  image: 'docker://wakareadmestats/waka-readme-stats:master'
 
 branding:
   icon: 'activity'
