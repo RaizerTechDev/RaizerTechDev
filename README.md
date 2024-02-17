@@ -38,12 +38,20 @@
 
   <div align="center">
   <a href="https://github.com/RafaRz76Dev">
- <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&theme=dark"/>
- <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&theme=dark"/>    
- 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>
-  
- <div align="center">
+<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&bg_color=00000000"/>
+<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&bg_color=00000000"/> 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
+
+<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=RafaRz76Dev&bg_color=00000000"/> 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+   
+<div align="center">
                                                                                                       
  <p><img src="https://github-profile-trophy.vercel.app/?username=RafaRz76Dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
 </div>
