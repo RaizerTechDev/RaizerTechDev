@@ -47,7 +47,7 @@
 
 <br>
  
-[![Tempo Total de Codificação:](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&bg_color=00000000)](https://github.com/RafaRz76Dev/RafaRz76Dev)
+[![Tempo Total de Codificação:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RafaRz76Dev/RafaRz76Dev)
 
 </div>
 
