@@ -1,0 +1,31 @@
+name: Update README with Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Define a frequência de execução da Action (aqui, diariamente)
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README with Wakatime stats
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with Wakatime stats" || echo "No changes to commit"
+          git push
