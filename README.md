@@ -43,8 +43,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
 
+<div align="right">
+
+<br>
  
 [![Tempo Total de Codificação:](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&bg_color=00000000)](https://github.com/RafaRz76Dev/RafaRz76Dev)
+
+</div>
 
 <div align="center">
                                                                                                       
