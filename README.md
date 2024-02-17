@@ -43,11 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
    
 <div align="center">
                                                                                                       
