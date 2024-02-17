@@ -43,11 +43,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
 
-# Estatísticas de Codificação do Wakatime
+ 
+[![Tempo Total de Codificação:](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&bg_color=00000000)](https://github.com/RafaRz76Dev/RafaRz76Dev)
 
-## Tempo Total de Codificação: 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&bg_color=00000000)](https://github.com/RafaRz76Dev/RafaRz76Dev)
-   
 <div align="center">
                                                                                                       
  <p><img src="https://github-profile-trophy.vercel.app/?username=RafaRz76Dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
