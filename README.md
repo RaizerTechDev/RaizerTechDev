@@ -37,16 +37,16 @@
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="80" width="100"> &nbsp;GitHub_Stats
 
   <div align="center">
-  <a href="https://github.com/RafaRz76Dev">
+  <a href="https://github.com/RafaRz76Dev">   
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&bg_color=00000000"/>
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&bg_color=00000000"/> 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
+<br>
 
 <div align="right">
-<br>
- 
-[![Tempo Total de Codificação:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RafaRz76Dev/RafaRz76Dev)
+
+[![Total Encoding Time:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RafaRz76Dev/RafaRz76Dev)
 
 </div>
 
