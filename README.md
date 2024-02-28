@@ -47,7 +47,7 @@ Estudante com 02 anos de experiência em desenvolvimento Front-End.
 <div align="center">
   <img src="./images/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="./code.gif" height="20"/>Minhas Habilidades</h3>
+<h3 align="center"><img src="./code.gif" height="20"/>My Skills</h3>
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
