@@ -14,7 +14,7 @@ Estudante com 02 anos de experiência em desenvolvimento Front-End.
 
 ◾ 🚀 Focado atualmente em Front-End, BackEnd, Java e Banco de Dados!!!
 
-◾ ☕ Sou estudante de Desenvolvimento de Software na StackX!!
+◾ ☕ Estudando Desenvolvimento de Software para Júnior na StackX, em paralelo com outros cursos oferecidos como Alura e Dio!!
 <br><br>
 
 <div align="center">
