@@ -47,7 +47,7 @@ Estudante com 02 anos de experiência em desenvolvimento Front-End.
 <div align="center">
   <img src="./images/divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="./code.gif" height="20"/>My Skills</h3>
+<h3 align="center"><img src="./images/skills.webp" height="50"/>My Skills</h3>
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
@@ -90,22 +90,22 @@ Estudante com 02 anos de experiência em desenvolvimento Front-End.
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="60" width="80"> &nbsp;GitHub_Stats
 
   <div align="center">
-  <a href="https://github.com/RafaRz76Dev">   
-<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
-<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
+  <a href="https://github.com/RaizerTechDev">   
+<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RaizerTechDev&show_icons=true&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
+<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaizerTechDev&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
 <br>
 
 <div align="right">
 
-[![Total Encoding Time:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RafaRz76Dev/RafaRz76Dev)
+[![Total Encoding Time:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RaizerTechDev/RaizerTechDev)
 
 </div>
 
 <div align="center">
                                                                                                       
- <p><img src="https://github-profile-trophy.vercel.app/?username=RafaRz76Dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
+ <p><img src="https://github-profile-trophy.vercel.app/?username=RaizerTechDev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
 </div>
 
  </div align="left">
@@ -127,7 +127,7 @@ Estudante com 02 anos de experiência em desenvolvimento Front-End.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href= "https://www.linkedin.com/in/rafael-raizer/" target="_blank" rel="noopener noreferrer"><img src="./images/icons8-linkedin-512.png" width="50" /></a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rafarz76dev.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:rafael.dev.raizer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href= "https://t.me/RafaRaizer76" target="_blank" rel="noopener noreferrer"><img src="./images/icons8-telegram-650.png"  width="50" /></a>
 </p>
