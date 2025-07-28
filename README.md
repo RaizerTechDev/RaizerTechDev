@@ -6,7 +6,7 @@
 
 ### 🏅Experience
 
-Estudante com 02 anos de experiência em desenvolvimento Front-End.
+Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 ◾ 💻 Construí pequenos projetos com HTML, CSS, JavaScript e Python!!!
 
