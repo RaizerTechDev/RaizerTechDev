@@ -24,7 +24,7 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 <p align="center"> 
   Visitor count<br>
-    <img alingn="end"src="https://profile-counter.glitch.me/RAFARZ76/count.svg" />  
+  <img src="https://profile-counter.deno.dev/RaizerTechDev/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
 <br>
