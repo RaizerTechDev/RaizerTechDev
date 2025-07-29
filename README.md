@@ -17,13 +17,20 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 ◾ 🚀 Focado atualmente em Front-End, BackEnd, Java e Banco de Dados!!!
 
 ◾ ☕ Estudando Desenvolvimento de Software para Júnior na StackX, em paralelo com outros cursos oferecidos como Alura e Dio!!
+
 <br><br>
 
- ***
+<div align="center">
+  <img src="./images/divider2.png" alt="divider"/>
+</div>
  
  <div align="center" border-width= "2px"> 
-   
-  <img align="center" src="images/perfilprincipal-readme.gif" height="400em" width="150%" >
+
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=54F73F&background=080808C5&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Estudante+Front-End+JR" alt="Typing SVG" /></a>
+</p>
+  
+<img align="center" src="images/perfilprincipal-readme.gif" height="400em" width="150%" >
 </div>
 
 
@@ -38,11 +45,6 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 </p>
 
 <br>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=54F73F&background=080808C5&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Estudante+Front-End+JR" alt="Typing SVG" /></a>
-</p>
-
 <br>
 <div align="center">
   <img src="./images/divider2.png" alt="divider"/>
