@@ -1,7 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, Nice to meet you!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=54F73F&width=435&lines=Ol%C3%A1%2C+sou+Rafael+Raizer!;+Seja+bem+vindo(a)+este+%C3%A9+meu++GitHub!)](https://git.io/typing-svg) 
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 ### 🏅Experience
@@ -16,6 +18,14 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 ◾ ☕ Estudando Desenvolvimento de Software para Júnior na StackX, em paralelo com outros cursos oferecidos como Alura e Dio!!
 <br><br>
+
+ ***
+ 
+ <div align="center" border-width= "2px"> 
+   
+  <img align="center" src="https://github.com/user-attachments/assets/dc31f0b2-0747-4189-8428-2e54f295befa" height="400em" width="150%" >
+</div>
+
 
 <div align="center">
   <img src="./images/divider2.png" alt="divider"/>
