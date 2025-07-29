@@ -23,7 +23,7 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
  
  <div align="center" border-width= "2px"> 
    
-  <img align="center" src="https://github.com/user-attachments/assets/dc31f0b2-0747-4189-8428-2e54f295befa" height="400em" width="150%" >
+  <img align="center" src="images/perfilprincipal-readme.gif" height="400em" width="150%" >
 </div>
 
 
