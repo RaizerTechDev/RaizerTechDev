@@ -130,12 +130,20 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 <div align="center">
   <img src="./images/divider2.png" alt="divider"/>
 </div> 
-  <h2 align="center">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-  <br />
+
+<h2 align="center">
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+
+How to reach me
+
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+
+</h2>
+
+<br />
+
 <p align="center">
     <a href= "https://api.whatsapp.com/send/?phone=47999327137" target="_blank" rel="noopener noreferrer"><img src="./images/whatsapp.svg"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
