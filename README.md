@@ -1,12 +1,6 @@
 <h1 align="center">
 
-
-
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=54F73F&width=435&lines=Ol%C3%A1%2C+sou+Rafael+Raizer!;Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
-</p>
-
-
 
 </h1>
 
