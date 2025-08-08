@@ -1,9 +1,10 @@
-<h1 align="center">
+
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
-  
+<h1 align="center"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?align=center&font=Pacifico&size=27&pause=1000&color=54F73F&width=435&lines=Ol%C3%A1%2C+sou+Rafael+Raizer!;+Seja+bem+vindo(a)+este+%C3%A9+meu++GitHub!)](https://git.io/typing-svg) 
+</h1>
 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
