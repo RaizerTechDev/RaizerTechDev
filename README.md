@@ -147,7 +147,7 @@ How to reach me
 <p align="center">
     <a href= "https://api.whatsapp.com/send/?phone=47999327137" target="_blank" rel="noopener noreferrer"><img src="./images/whatsapp.svg"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href= "https://www.linkedin.com/in/rafael-raizer/" target="_blank" rel="noopener noreferrer"><img src="./images/icons8-linkedin-512.png" width="50" /></a>  
+ <a href= "https://www.linkedin.com/in/raizer-rafael/" target="_blank" rel="noopener noreferrer"><img src="./images/icons8-linkedin-512.png" width="50" /></a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rafael.dev.raizer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
