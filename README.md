@@ -104,11 +104,11 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="60" width="80"> &nbsp;GitHub_Stats
 
   <div align="center">
-  <a href="https://github.com/RaizerTechDev">   
-<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=RaizerTechDev&show_icons=true&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
-<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaizerTechDev&theme=radical&hide_border=true&show_icons=True&layout=compact"/>
+  <a href="https://github.com/RaizerTechDev">  
+    
+ <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaizerTechDev&theme=dracula"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
 <br>
 
 <div align="right">
@@ -119,13 +119,31 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 <div align="center">
                                                                                                       
- <p><img src="https://github-profile-trophy.vercel.app/?username=RaizerTechDev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
+ <p> <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaizerTechDev&theme=dracula"/></p>                                                             
 </div>
 
  </div align="left">
  <br>
 
 ---
+
+<div align="center">
+  <!-- Stats Principal -->
+  <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaizerTechDev&theme=dracula"/>
+  
+  <!-- Top Languages -->
+ 
+  
+  <!-- Streak -->
+ 
+</div>
+
+<br><hr>
+
+<div align="center">
+  🏆 **RaizerTechDev** - Desenvolvedor FrontEnd/BackEnd | Estudante Dev Jr.
+</div>
+
 
 <div align="center">
   <img src="./images/divider2.png" alt="divider"/>
