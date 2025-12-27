@@ -115,6 +115,7 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 <div align="center">
 
+ <!-- Total Contributions | Current Streak | Longest Streak  -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
 
 <br>
@@ -124,7 +125,6 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
  <br>
  
 ---
-
 
 <div align="center">
   <img src="./images/divider2.png" alt="divider"/>
