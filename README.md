@@ -103,46 +103,27 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" align="center"  height="60" width="80"> &nbsp;GitHub_Stats
 
-  <div align="center">
-  <a href="https://github.com/RaizerTechDev">  
-    
- <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaizerTechDev&theme=dracula"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
-<br>
-
-<div align="right">
-
-[![Total Encoding Time:](https://github-readme-stats.vercel.app/api/wakatime?username=@ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact)](https://github.com/RaizerTechDev/RaizerTechDev)
-
-</div>
-
-<div align="center">
-                                                                                                      
- <p> <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaizerTechDev&theme=dracula"/></p>                                                             
-</div>
-
- </div align="left">
- <br>
-
----
-
 <div align="center">
   <!-- Stats Principal -->
-  <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaizerTechDev&theme=dracula"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaizerTechDev&theme=github_dark"/>
   
   <!-- Top Languages -->
- 
-  
-  <!-- Streak -->
- 
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaizerTechDev&theme=github_dark"/>  
 </div>
 
-<br><hr>
+<br>
 
 <div align="center">
-  🏆 **RaizerTechDev** - Desenvolvedor FrontEnd/BackEnd | Estudante Dev Jr.
-</div>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=RaizerTechDev&theme=dark" alt="RaizerTechDev" /></p>  
+
+<br>
+
+ </div align="left]
+ 
+ <br>
+ 
+---
 
 
 <div align="center">
