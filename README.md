@@ -41,10 +41,11 @@ Estudante com 04 anos de experiência em desenvolvimento Front-End.
 </div>
 <br><br>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.deno.dev/RaizerTechDev/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=RaizerTechDev" alt="View Counter" />
 </p>
+
 
 <br>
 <br>
